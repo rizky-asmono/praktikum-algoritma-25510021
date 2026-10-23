@@ -1,5 +1,6 @@
 package B_TipeDataOperator;
 
+
 import java.util.Scanner;
 
 public class LuasPersegiPanjang {
